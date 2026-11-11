@@ -1,0 +1,246 @@
+{
+  "title": "Checklist ya CHW wa Mtaa (EPDS)",
+  "subtitle": "Maswali 10 ya kucheki vile mresh anajisikia ki-mental na kumpa help ya fasta.",
+  "instructions": "Uliza mama vile amekuwa anajisikia kwa wiki moja iliyopita. Chagua ile option inafit response yake.",
+  "scoreSummaryTitle": "Matokeo ya EPDS Triage",
+  "totalScoreLabel": "Score ya EPDS Yote",
+  "riskLevels": {
+    "low": {
+      "label": "Hali Shwari (Alama 0-9)",
+      "desc": "Mama anashikilia poa na mtoto, ni uchovu tu wa kawaida wa uzazi.",
+      "advice": "Mpe maneno ya nguvu. Mwambie anywe maji ya moto, alale mtoto akilala, na aendelee na clinics."
+    },
+    "elevated": {
+      "label": "Stress Iko Juu (Alama 10-12)",
+      "desc": "Anaonyesha dalili za uchovu mkali, usingizi kukata, na kujilaumu.",
+      "advice": "Mtembelee kejani ndani ya 48 hours. Mfanyishe mazoezi ya kupumua na mconnect na wamama wengine."
+    },
+    "crisis": {
+      "label": "Crisis ya Hatari (Alama 13+ au Swali 10 > 0)",
+      "desc": "Stress imevuka mipaka au anawaza kujiumiza.",
+      "advice": "Inahitaji emergency mara hiyo hiyo! Usiache mama akiwa solo. Piga 1199 mara moja au mpeleke hosy."
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "1. Nimeweza kucheka na kuona vitu za kufurahisha:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Kama kawaida yangu"
+        },
+        {
+          "score": 1,
+          "label": "Sio sana saa hii"
+        },
+        {
+          "score": 2,
+          "label": "Kidogo sana kuliko kitambo"
+        },
+        {
+          "score": 3,
+          "label": "Zii, hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "2. Nimetazamia mambo na furaha:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Kama kawaida yangu"
+        },
+        {
+          "score": 1,
+          "label": "Chini kiasi kuliko kawaida"
+        },
+        {
+          "score": 2,
+          "label": "Chini sana"
+        },
+        {
+          "score": 3,
+          "label": "Hata sioni furaha yoyote"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "3. Nimejilaumu bila sababu vitu zikiharibika:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara mob sana"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, sometimes"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Zii, hata mara moja"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "4. Nimekuwa na wasiwasi bila reason ya maana:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Zii, hata kidogo"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, sometimes"
+        },
+        {
+          "score": 3,
+          "label": "Eeh, mara mob sana"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "5. Nimeshtuka au kupata panic bila sababu:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara mob"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, sometimes"
+        },
+        {
+          "score": 1,
+          "label": "Zii, sio sana"
+        },
+        {
+          "score": 0,
+          "label": "Zii, hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "6. Mambo yamenilemea hadi nashindwa ku-cope:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, nimeshindwa ku-cope kabisa"
+        },
+        {
+          "score": 2,
+          "label": "Sometimes nashindwa kumudu"
+        },
+        {
+          "score": 1,
+          "label": "Zii, na-manage vizuri tu"
+        },
+        {
+          "score": 0,
+          "label": "Na-cope poa kama kawaida"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "7. Nimekuwa na huzuni hadi sipati usingizi:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara mob"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, sometimes"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Zii, hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "8. Nimehisi huzuni au unyonge:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara mob sana"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, mara kadhaa"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Zii, kamwe"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "9. Nimekuwa nikilia machozi juu ya stress:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara mob"
+        },
+        {
+          "score": 2,
+          "label": "Eeh, mara kadhaa"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Zii, sijalia"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "10. Nimepata mawazo ya kujiumiza au kutaka kutoweka:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Eeh, mara kadhaa"
+        },
+        {
+          "score": 2,
+          "label": "Sometimes"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache sana"
+        },
+        {
+          "score": 0,
+          "label": "Zii, kamwe kabisa"
+        }
+      ]
+    }
+  ]
+}

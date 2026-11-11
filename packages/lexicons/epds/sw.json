@@ -1,0 +1,246 @@
+{
+  "title": "Orodha ya Tathmini ya Mhudumu wa Afya (CHW - EPDS)",
+  "subtitle": "Chombo cha uchunguzi cha maswali 10 ya Edinburgh Postnatal Depression Scale kwa wahudumu wa jamii.",
+  "instructions": "Mwombe mama kuelezea jinsi alivyojisikia katika siku 7 zilizopita. Chagua jibu linaloakisi hali yake vizuri zaidi.",
+  "scoreSummaryTitle": "Matokeo ya Tathmini ya Kliniki",
+  "totalScoreLabel": "Jumla ya Alama za EPDS",
+  "riskLevels": {
+    "low": {
+      "label": "Hali ya Kawaida (Alama 0-9)",
+      "desc": "Mama anaonyesha kubadilika vizuri na mtoto na uchovu wa kawaida wa uzazi.",
+      "advice": "Mpe maneno ya faraja. Mhimize kunywa maji ya kutosha, kupumzika mtoto anapolala, na kuendelea na huduma za kliniki."
+    },
+    "elevated": {
+      "label": "Kulemewa Wastani (Alama 10-12)",
+      "desc": "Kuna dalili za wazi za uchovu mkubwa, wasiwasi, kukosa usingizi, na kujilaumu.",
+      "advice": "Panga kumtembelea nyumbani ndani ya masaa 48. Mfundishe zoezi la kupumua na mwezeshe kupata msaada wa wamama wenzake."
+    },
+    "crisis": {
+      "label": "Hatari Kubwa / Dharura (Alama 13+ au Swali 10 > 0)",
+      "desc": "Mfadhaiko mkubwa sana wa kisaikolojia au uwepo wa mawazo ya kujidhuru au kukata tamaa.",
+      "advice": "Inahitaji rufaa ya haraka ya kitabibu. Usimwache mama peke yake. Wasiliana mara moja na dharura ya 1199 au zahanati ya karibu."
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "1. Nimeweza kucheka na kuona upande wa kuchekesha wa mambo:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Kama kawaida yangu daima"
+        },
+        {
+          "score": 1,
+          "label": "Sio sana sasa hivi"
+        },
+        {
+          "score": 2,
+          "label": "Kwa uchache sana sasa"
+        },
+        {
+          "score": 3,
+          "label": "Hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "2. Nimetazamia mambo mbele kwa furaha na bashasha:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Kama nilivyokuwa nikifanya daima"
+        },
+        {
+          "score": 1,
+          "label": "Kidogo kuliko nilivyozoea"
+        },
+        {
+          "score": 2,
+          "label": "Kwa uchache sana kuliko zamani"
+        },
+        {
+          "score": 3,
+          "label": "Hata kidogo kabisa"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "3. Nimejilaumu bila sababu mambo yalipoharibika:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, wakati mwingine"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache sana"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, hata mara moja"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "4. Nimekuwa na wasiwasi au hofu bila sababu ya msingi:",
+      "options": [
+        {
+          "score": 0,
+          "label": "Hapana, hata kidogo"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, wakati mwingine"
+        },
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "5. Nimehisi kuogopa au kupata hofu ya ghafla bila sababu maalum:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, wakati mwingine"
+        },
+        {
+          "score": 1,
+          "label": "Hapana, sio sana"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, kamwe"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "6. Mambo yamenilemea kiasi cha kuhisi siwezi kumudu:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi nimeshindwa kumudu"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, wakati mwingine sijamudu vizuri"
+        },
+        {
+          "score": 1,
+          "label": "Hapana, mara nyingi nimemudu vizuri"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, nimekuwa nikimudu vyema kabisa"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "7. Nimekuwa na huzuni kiasi cha kupata shida ya usingizi:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, wakati mwingine"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "8. Nimehisi huzuni au unyonge moyoni:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, mara kadhaa"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, hata kidogo"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "9. Nimekuwa na huzuni kiasi cha kulia machozi:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara nyingi sana"
+        },
+        {
+          "score": 2,
+          "label": "Ndio, mara kadhaa"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache tu"
+        },
+        {
+          "score": 0,
+          "label": "Hapana, kamwe"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "10. Wazo la kujiumiza au kujidhuru limewahi kunijia akilini:",
+      "options": [
+        {
+          "score": 3,
+          "label": "Ndio, mara kadhaa"
+        },
+        {
+          "score": 2,
+          "label": "Wakati mwingine"
+        },
+        {
+          "score": 1,
+          "label": "Mara chache sana"
+        },
+        {
+          "score": 0,
+          "label": "Kamwe kabisa"
+        }
+      ]
+    }
+  ]
+}

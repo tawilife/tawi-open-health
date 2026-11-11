@@ -1,0 +1,246 @@
+{
+  "title": "Outil de Dépistage EPDS pour Agents Communautaires",
+  "subtitle": "Échelle de Dépression Postnatale d'Édimbourg en 10 questions pour le triage de santé maternelle.",
+  "instructions": "Demandez à la mère de décrire son état au cours des 7 derniers jours. Sélectionnez l'option la plus représentative.",
+  "scoreSummaryTitle": "Résultat du Triage Clinique EPDS",
+  "totalScoreLabel": "Score Total EPDS",
+  "riskLevels": {
+    "low": {
+      "label": "Risque Faible (0-9 points)",
+      "desc": "La mère présente une bonne adaptation maternelle avec la fatigue normale du post-partum.",
+      "advice": "Offrez des encouragements. Invitez-la à bien s'hydrater, se reposer dès que bébé dort et suivre les rendez-vous de santé."
+    },
+    "elevated": {
+      "label": "Tension Émotionnelle Élevée (10-12 points)",
+      "desc": "Signes notables d'épuisement, d'angoisse, d'insomnie ou d'auto-reproche excessif.",
+      "advice": "Planifiez une visite à domicile sous 48 heures. Proposez des exercices de respiration et un groupe de soutien."
+    },
+    "crisis": {
+      "label": "Urgence / Risque Élevé (13+ points ou Question 10 > 0)",
+      "desc": "Détresse psychologique sévère ou présence d'idées suicidaires / d'automutilation.",
+      "advice": "Prise en charge médicale urgente requise. Ne laissez pas la mère seule. Contactez immédiatement le 1199 ou les urgences."
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "1. J'ai pu rire et voir le bon côté des choses :",
+      "options": [
+        {
+          "score": 0,
+          "label": "Autant que d'habitude"
+        },
+        {
+          "score": 1,
+          "label": "Un peu moins maintenant"
+        },
+        {
+          "score": 2,
+          "label": "Nettement moins maintenant"
+        },
+        {
+          "score": 3,
+          "label": "Pas du tout"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "2. J'ai envisagé l'avenir avec plaisir :",
+      "options": [
+        {
+          "score": 0,
+          "label": "Autant que d'habitude"
+        },
+        {
+          "score": 1,
+          "label": "Un peu moins que d'habitude"
+        },
+        {
+          "score": 2,
+          "label": "Nettement moins que d'habitude"
+        },
+        {
+          "score": 3,
+          "label": "Pratiquement pas"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "3. Je me suis reproché sans raison que les choses aillent mal :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, la plupart du temps"
+        },
+        {
+          "score": 2,
+          "label": "Oui, parfois"
+        },
+        {
+          "score": 1,
+          "label": "Pas très souvent"
+        },
+        {
+          "score": 0,
+          "label": "Non, jamais"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "4. J'ai été anxieuse ou soucieuse sans raison :",
+      "options": [
+        {
+          "score": 0,
+          "label": "Non, pas du tout"
+        },
+        {
+          "score": 1,
+          "label": "Presque jamais"
+        },
+        {
+          "score": 2,
+          "label": "Oui, parfois"
+        },
+        {
+          "score": 3,
+          "label": "Oui, très souvent"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "5. J'ai eu peur ou paniqué sans raison valable :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, vraiment souvent"
+        },
+        {
+          "score": 2,
+          "label": "Oui, parfois"
+        },
+        {
+          "score": 1,
+          "label": "Non, pas beaucoup"
+        },
+        {
+          "score": 0,
+          "label": "Non, pas du tout"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "6. Les événements ont eu tendance à me submerger :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, la plupart du temps j'étais incapable d'y faire face"
+        },
+        {
+          "score": 2,
+          "label": "Oui, parfois je n'y arrivais pas aussi bien que d'habitude"
+        },
+        {
+          "score": 1,
+          "label": "Non, la plupart du temps je m'en sortais bien"
+        },
+        {
+          "score": 0,
+          "label": "Non, j'ai fait face aussi bien que d'habitude"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "7. J'ai été si malheureuse que j'ai eu du mal à dormir :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, la plupart du temps"
+        },
+        {
+          "score": 2,
+          "label": "Oui, parfois"
+        },
+        {
+          "score": 1,
+          "label": "Pas très souvent"
+        },
+        {
+          "score": 0,
+          "label": "Non, pas du tout"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "8. Je me suis sentie triste ou malheureuse :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, la plupart du temps"
+        },
+        {
+          "score": 2,
+          "label": "Oui, assez souvent"
+        },
+        {
+          "score": 1,
+          "label": "Pas très souvent"
+        },
+        {
+          "score": 0,
+          "label": "Non, pas du tout"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "9. J'ai été si malheureuse que j'en ai pleuré :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, la plupart du temps"
+        },
+        {
+          "score": 2,
+          "label": "Oui, assez souvent"
+        },
+        {
+          "score": 1,
+          "label": "Seulement de temps en temps"
+        },
+        {
+          "score": 0,
+          "label": "Non, jamais"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "10. L'idée de me faire du mal m'a traversé l'esprit :",
+      "options": [
+        {
+          "score": 3,
+          "label": "Oui, assez souvent"
+        },
+        {
+          "score": 2,
+          "label": "Parfois"
+        },
+        {
+          "score": 1,
+          "label": "Presque jamais"
+        },
+        {
+          "score": 0,
+          "label": "Jamais"
+        }
+      ]
+    }
+  ]
+}

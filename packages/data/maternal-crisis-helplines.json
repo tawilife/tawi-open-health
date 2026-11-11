@@ -1,0 +1,1433 @@
+[
+  {
+    "country": "Kenya",
+    "slug": "kenya",
+    "region": "East Africa",
+    "emergency": "999 / 112",
+    "services": [
+      {
+        "name": "National Psychological First Aid & Emergency Helpline",
+        "helpline": "1199",
+        "hours": "24/7 free toll-free",
+        "description": "Official Kenya Red Cross & Ministry of Health national emergency psychological first aid support line."
+      },
+      {
+        "name": "Emergency Medicine Kenya Foundation",
+        "helpline": "0800 723 253",
+        "url": "https://www.emergencymedicinekenya.org/suicide/",
+        "description": "Toll-free crisis line and medical referral service."
+      },
+      {
+        "name": "Niskize Maternal & Mental Health Support",
+        "helpline": "0900 620 800",
+        "url": "https://niskize.co.ke/",
+        "description": "Confidential maternal mental health counseling and crisis listening."
+      },
+      {
+        "name": "Befrienders Kenya",
+        "helpline": "+254 722 178 177",
+        "url": "http://www.befrienderskenya.org/",
+        "description": "Free emotional listening and crisis intervention."
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "slug": "uganda",
+    "region": "East Africa",
+    "emergency": "999 / 112",
+    "services": [
+      {
+        "name": "Befrienders Uganda",
+        "helpline": "800 200 450",
+        "hours": "24/7",
+        "description": "Free emotional support and crisis counseling."
+      },
+      {
+        "name": "Mental Health Uganda",
+        "helpline": "800 212 121",
+        "hours": "Monday through Friday: 8:30 am to 5:00 pm",
+        "description": "Advocacy and community mental health emotional support."
+      }
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "slug": "tanzania",
+    "region": "East Africa",
+    "emergency": "112 / 999",
+    "services": [
+      {
+        "name": "Tanzania National Emergency Support",
+        "helpline": "112",
+        "hours": "24/7",
+        "description": "General medical, ambulance, and urgent crisis dispatch."
+      },
+      {
+        "name": "National Child & Family Helpline (C-SMR)",
+        "helpline": "116",
+        "description": "National toll-free helpline providing crisis and psychosocial support for mothers, children, and families."
+      }
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "slug": "rwanda",
+    "region": "East Africa",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Suicide Prevention & Crisis Line",
+        "helpline": "8015",
+        "hours": "24/7 toll-free",
+        "description": "National crisis counseling and emergency psychosocial support."
+      }
+    ]
+  },
+  {
+    "country": "Burundi",
+    "slug": "burundi",
+    "region": "East Africa",
+    "emergency": "117",
+    "services": [
+      {
+        "name": "Human Health Aid-Burundi",
+        "helpline": "+257 69 77 63 67",
+        "url": "https://humanhealthaid.com/",
+        "description": "Community psychological support and psychosocial assistance."
+      }
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "slug": "south-sudan",
+    "region": "East Africa",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "South Sudan Emergency Medical Helpline",
+        "helpline": "999",
+        "description": "National emergency medical and police response line."
+      }
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "slug": "ethiopia",
+    "region": "East Africa",
+    "emergency": "997 / 991",
+    "services": [
+      {
+        "name": "National Emergency & Ambulance Service",
+        "helpline": "907",
+        "description": "Medical first aid and emergency mental health guidance."
+      }
+    ]
+  },
+  {
+    "country": "Somalia",
+    "slug": "somalia",
+    "region": "East Africa",
+    "emergency": "888",
+    "services": [
+      {
+        "name": "Somalia Emergency Hotline",
+        "helpline": "888",
+        "description": "Emergency dispatch and urgent community crisis care."
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "slug": "south-africa",
+    "region": "Africa",
+    "emergency": "10111 / 112",
+    "services": [
+      {
+        "name": "South Africa Suicide Crisis Helpline (SADAG)",
+        "helpline": "0800 567 567 / 0800 21 22 23",
+        "hours": "24/7 free",
+        "description": "South African Depression and Anxiety Group 24-hour crisis counseling."
+      },
+      {
+        "name": "Akeso Crisis Helpline",
+        "helpline": "0861 435 787",
+        "hours": "24/7",
+        "description": "Psychological crisis and in-patient support."
+      },
+      {
+        "name": "ChaiFM Helpline",
+        "helpline": "0800 24 24 36",
+        "description": "Community crisis intervention."
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "slug": "nigeria",
+    "region": "Africa",
+    "emergency": "112 / 199",
+    "services": [
+      {
+        "name": "MANI (Mentally Aware Nigeria Initiative)",
+        "helpline": "0809 111 6264",
+        "description": "Mental health crisis counseling, suicide prevention, and peer support."
+      },
+      {
+        "name": "National Suicide Hotline",
+        "helpline": "0809 210 6493",
+        "description": "24/7 crisis intervention helpline."
+      }
+    ]
+  },
+  {
+    "country": "Ghana",
+    "slug": "ghana",
+    "region": "Africa",
+    "emergency": "17 / 112",
+    "services": [
+      {
+        "name": "Lifeline Ghana",
+        "helpline": "+233 244 846 701",
+        "description": "24-hour counseling service for distress and crisis."
+      },
+      {
+        "name": "National Lifeline",
+        "helpline": "+233 244 471 279",
+        "description": "Emotional listening and mental health support."
+      }
+    ]
+  },
+  {
+    "country": "Botswana",
+    "slug": "botswana",
+    "region": "Africa",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Botswana Suicide Hotline",
+        "helpline": "3911270",
+        "description": "Emergency emotional support line."
+      },
+      {
+        "name": "Botswana Network for Mental Health",
+        "helpline": "+267 391 0436",
+        "description": "Mental health advocacy and community counseling."
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "slug": "egypt",
+    "region": "Africa",
+    "emergency": "112 / 123",
+    "services": [
+      {
+        "name": "Befrienders Cairo",
+        "helpline": "762 2381 / 762 1602",
+        "description": "Emotional listening and suicide prevention support."
+      },
+      {
+        "name": "Psychosocial Services Helpline",
+        "helpline": "01100604002 / 01127777005",
+        "description": "Crisis support and protection referral."
+      }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "slug": "zimbabwe",
+    "region": "Africa",
+    "emergency": "999 / 112",
+    "services": [
+      {
+        "name": "Samaritans Zimbabwe",
+        "helpline": "Harare: 080 12 333 333 / Bulawayo: +263 09 65000",
+        "description": "Confidential emotional listening and crisis support."
+      },
+      {
+        "name": "Munyashae Foundation",
+        "helpline": "077 297 3238 / 077 966 4980",
+        "description": "Mental wellness and community crisis guidance."
+      }
+    ]
+  },
+  {
+    "country": "Zambia",
+    "slug": "zambia",
+    "region": "Africa",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "Suicide Prevention of Zambia",
+        "helpline": "0960 264 040",
+        "description": "Emergency counseling and crisis intervention."
+      }
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "slug": "mauritius",
+    "region": "Africa",
+    "emergency": "999 / 112",
+    "services": [
+      {
+        "name": "Befrienders Mauritius",
+        "helpline": "800 9393",
+        "url": "https://www.befrienders.org/directory?country=Mauritius",
+        "description": "Emotional support to anyone in distress."
+      },
+      {
+        "name": "Life Plus",
+        "helpline": "188 / 466 5310",
+        "description": "Family welfare and crisis support."
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "slug": "morocco",
+    "region": "Africa",
+    "emergency": "19 / 112",
+    "services": [
+      {
+        "name": "Stop Silence",
+        "url": "https://www.stopsilence.net/",
+        "description": "Online confidential chat and psychological assistance."
+      }
+    ]
+  },
+  {
+    "country": "Namibia",
+    "slug": "namibia",
+    "region": "Africa",
+    "emergency": "10111 / 112",
+    "services": [
+      {
+        "name": "LifeLine Namibia",
+        "helpline": "(09264) 61-232-221",
+        "description": "Crisis helpline and community support."
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "slug": "senegal",
+    "region": "Africa",
+    "emergency": "17",
+    "services": [
+      {
+        "name": "Senegal Emergency Hotline",
+        "helpline": "17",
+        "description": "National emergency medical and safety dispatch."
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "slug": "sudan",
+    "region": "Africa",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "Befrienders Khartoum",
+        "helpline": "(249) 11 555 253",
+        "description": "Emotional support and listening line."
+      }
+    ]
+  },
+  {
+    "country": "Togo",
+    "slug": "togo",
+    "region": "Africa",
+    "emergency": "117 / 118",
+    "services": [
+      {
+        "name": "VisionTogo (VTG)",
+        "helpline": "(228) 90 92 22 22",
+        "description": "Mental health and counseling services."
+      }
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "slug": "tunisia",
+    "region": "Africa",
+    "emergency": "190 (SAMU)",
+    "services": [
+      {
+        "name": "Emergency Medical Team / Ambulance (SAMU)",
+        "helpline": "190",
+        "description": "Urgent psychiatric and medical crisis care."
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "slug": "united-states",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "National Maternal Mental Health Hotline",
+        "helpline": "1-833-943-5746 (1-833-9-HELP4MOMS)",
+        "hours": "24/7 free & confidential in English & Spanish",
+        "url": "https://mchb.hrsa.gov/national-maternal-mental-health-hotline",
+        "description": "Specialized, confidential 24/7 hotline for pregnant, postpartum women and their families."
+      },
+      {
+        "name": "Suicide & Crisis Lifeline",
+        "helpline": "988",
+        "hours": "24/7 free call and text",
+        "url": "https://988lifeline.org/",
+        "description": "Trained crisis counselors providing immediate suicide prevention and distress counseling."
+      },
+      {
+        "name": "Postpartum Support International (PSI)",
+        "helpline": "1-800-944-4773",
+        "text": "503-894-9453",
+        "url": "https://www.postpartum.net/",
+        "description": "Perinatal mood resources, support groups, and local specialized healthcare referrals."
+      },
+      {
+        "name": "Crisis Text Line",
+        "text": "Text HOME to 741741",
+        "hours": "24/7 free",
+        "url": "https://www.crisistextline.org/",
+        "description": "Free 24/7 crisis support via text."
+      },
+      {
+        "name": "The Trevor Project",
+        "helpline": "1-866-488-7386",
+        "url": "https://www.thetrevorproject.org/",
+        "description": "Crisis intervention and suicide prevention for LGBTQ young people."
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "slug": "canada",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Suicide & Crisis Lifeline",
+        "helpline": "988",
+        "hours": "24/7 free phone & text",
+        "description": "National suicide prevention and crisis hotline."
+      },
+      {
+        "name": "Talk Suicide Canada",
+        "helpline": "1 833 456 4566",
+        "text": "45645",
+        "hours": "24/7",
+        "url": "https://talksuicide.ca/",
+        "description": "Nationwide emotional support and suicide crisis response."
+      },
+      {
+        "name": "Hope for Wellness Helpline (Indigenous Support)",
+        "helpline": "1-855-242-3310",
+        "url": "https://www.hopeforwellness.ca/",
+        "description": "Immediate mental health counseling and crisis intervention for First Nations, Inuit & Métis."
+      },
+      {
+        "name": "Kids Help Phone",
+        "helpline": "1-800-668-6868",
+        "url": "https://kidshelpphone.ca/",
+        "description": "24/7 e-mental health services for youth."
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "slug": "brazil",
+    "region": "Americas",
+    "emergency": "192 / 190",
+    "services": [
+      {
+        "name": "Centro de Valorização da Vida (CVV)",
+        "helpline": "188",
+        "hours": "24 horas por dia",
+        "url": "https://www.cvv.org.br/",
+        "description": "Apoio emocional e prevenção do suicídio gratuito e confidencial."
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "slug": "mexico",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Línea De La Vida",
+        "helpline": "1 800 911 2000",
+        "hours": "24 hours a day, 7 days a week",
+        "url": "https://www.gob.mx/salud/conadic",
+        "description": "National toll-free emotional and addiction crisis line."
+      },
+      {
+        "name": "SAPTEL",
+        "helpline": "55 5259 8121",
+        "hours": "24/7",
+        "url": "https://www.saptel.org.mx/",
+        "description": "Servicio de apoyo psicológico telefónico y prevención de crisis."
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "slug": "argentina",
+    "region": "Americas",
+    "emergency": "107 / 911",
+    "services": [
+      {
+        "name": "Centro de Asistencia al Suicida",
+        "helpline": "135 / (011) 5275-1135",
+        "url": "https://www.asistenciaalsuicida.org.ar/",
+        "description": "Atención anónima y gratuita para personas en crisis o familiares."
+      },
+      {
+        "name": "S.O.S. Un Amigo Anónimo",
+        "helpline": "(+54 11) 4783-8888",
+        "url": "http://www.sosunamigoanonimo.com.ar/",
+        "description": "Línea de escucha empática y apoyo emocional."
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "slug": "colombia",
+    "region": "Americas",
+    "emergency": "123 / 119",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Colombia",
+        "helpline": "(00575) 372 2727",
+        "url": "https://telefonodelaesperanza.org/",
+        "description": "Orientación psicológica e intervención en crisis."
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "slug": "chile",
+    "region": "Americas",
+    "emergency": "133 / 131",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Chile",
+        "helpline": "(005642) 22 1200",
+        "url": "https://telefonodelaesperanza.org/",
+        "description": "Apoyo en crisis y salud mental."
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "slug": "costa-rica",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Aquí Estoy / Here I Am Line",
+        "helpline": "2272 3774",
+        "hours": "Monday - Friday: 1:00 pm to 10:00 pm; Saturday: 9:00 am to 4:00 pm",
+        "url": "https://psicologiacr.com/aqui-estoy/",
+        "description": "Línea de orientación psicológica y prevención del suicidio."
+      },
+      {
+        "name": "ACEPS",
+        "helpline": "4081 9326",
+        "description": "Asociación Costarricense de Estudio y Prevención del Suicidio."
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "slug": "ecuador",
+    "region": "Americas",
+    "emergency": "911 / 101",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Ecuador",
+        "helpline": "6000477",
+        "url": "https://telefonodelaesperanza.org/",
+        "description": "Orientación en momentos de angustia y crisis."
+      },
+      {
+        "name": "Anima EC",
+        "helpline": "+593 99 719 6911",
+        "description": "Apoyo emocional y primeros auxilios psicológicos."
+      }
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "slug": "dominican-republic",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Línea Familiar Contigo",
+        "helpline": "809 636 3507",
+        "hours": "24/7",
+        "url": "https://lineafamiliar.do/",
+        "description": "Apoyo psicológico y contención emocional familiar."
+      }
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "slug": "jamaica",
+    "region": "Americas",
+    "emergency": "119 / 110",
+    "services": [
+      {
+        "name": "Jamaica Suicide Hotline",
+        "helpline": "888 639 5433",
+        "hours": "24/7",
+        "description": "24/7 mental health and crisis support."
+      },
+      {
+        "name": "U-Matter",
+        "helpline": "876 838 4897",
+        "url": "https://jamaica.ureport.in/",
+        "description": "Chatline providing mental health support."
+      }
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "region": "Americas",
+    "emergency": "990 / 999 / 911",
+    "services": [
+      {
+        "name": "Lifeline Trinidad and Tobago",
+        "helpline": "800-5588",
+        "hours": "24/7",
+        "url": "https://www.lifelinett.com/",
+        "description": "24-hour crisis outreach and emotional support."
+      }
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "slug": "puerto-rico",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Línea PAS (ASSMCA)",
+        "helpline": "1-800-981-0023",
+        "hours": "24/7",
+        "url": "https://lineapas.assmca.pr.gov/",
+        "description": "Línea de primera ayuda psicosocial y manejo de crisis."
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "slug": "peru",
+    "region": "Americas",
+    "emergency": "113 / 105",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Perú",
+        "helpline": "(00511) 273 8026",
+        "url": "https://telefonodelaesperanza.org/",
+        "description": "Servicio de ayuda telefónica y soporte emocional."
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "slug": "bolivia",
+    "region": "Americas",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Bolivia",
+        "helpline": "(005914) 425 4242",
+        "description": "Orientación psicológica en situaciones de crisis."
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "slug": "venezuela",
+    "region": "Americas",
+    "emergency": "911 / 171",
+    "services": [
+      {
+        "name": "Teléfono de la Esperanza Venezuela",
+        "helpline": "0414 3498661",
+        "url": "http://www.parroquiavisitacion.org/esperanza",
+        "description": "Acompañamiento y escucha empática."
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "slug": "united-kingdom",
+    "region": "Europe",
+    "emergency": "999 / 112",
+    "services": [
+      {
+        "name": "PANDAS Foundation (Perinatal Mental Illness)",
+        "helpline": "0808 1961 776",
+        "hours": "Every day 11am - 10pm",
+        "url": "https://pandasfoundation.org.uk/",
+        "description": "Specialist peer support network for parents and carers navigating postnatal depression and anxiety."
+      },
+      {
+        "name": "Samaritans UK",
+        "helpline": "116 123",
+        "hours": "24/7, 365 days a year",
+        "url": "https://www.samaritans.org/",
+        "description": "Confidential emotional support for anyone in distress."
+      },
+      {
+        "name": "National Suicide Prevention Helpline UK",
+        "helpline": "0800 689 5652",
+        "url": "https://www.spuk.org.uk/",
+        "description": "Compassionate telephone support for suicidal thoughts and distress."
+      },
+      {
+        "name": "CALM (Campaign Against Living Miserably)",
+        "helpline": "0800 58 58 58",
+        "hours": "5pm to midnight every day",
+        "url": "https://www.thecalmzone.net/",
+        "description": "Crisis helpline and webchat."
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "slug": "france",
+    "region": "Europe",
+    "emergency": "112 / 15",
+    "services": [
+      {
+        "name": "Numéro national de prévention du suicide",
+        "helpline": "3114",
+        "hours": "24/7 gratuit et confidentiel",
+        "url": "https://3114.fr/",
+        "description": "Ligne d'écoute et de prise en charge par des professionnels de santé mentale."
+      },
+      {
+        "name": "Suicide Écoute",
+        "helpline": "01 45 39 40 00",
+        "url": "https://www.suicide-ecoute.fr/",
+        "description": "Écoute bénévole et soutien psychologique continu."
+      },
+      {
+        "name": "SOS Help (English Helpline in France)",
+        "helpline": "01 46 21 46 46",
+        "url": "https://soshelpline.org/",
+        "description": "English-language emotional support hotline in France."
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "slug": "germany",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "TelefonSeelsorge",
+        "helpline": "0800 111 0 111 / 0800 111 0 222",
+        "hours": "24/7 toll-free",
+        "url": "https://www.telefonseelsorge.de/",
+        "description": "Anonymous, free 24-hour counseling service."
+      },
+      {
+        "name": "Schatten & Licht (Postpartum Illness Support)",
+        "url": "https://schatten-und-licht.de/",
+        "description": "Initiative peripartale psychische Erkrankungen—comprehensive perinatal crisis guidance."
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "slug": "ireland",
+    "region": "Europe",
+    "emergency": "112 / 999",
+    "services": [
+      {
+        "name": "Text 50808",
+        "text": "Text HELLO to 50808",
+        "hours": "24/7 free text service",
+        "url": "https://text50808.ie/",
+        "description": "Free 24/7 crisis text helpline providing mental health support."
+      },
+      {
+        "name": "Samaritans Ireland",
+        "helpline": "116 123",
+        "hours": "24/7",
+        "url": "https://www.samaritans.org/",
+        "description": "Confidential emotional support."
+      },
+      {
+        "name": "Pieta House",
+        "helpline": "1800 247 247",
+        "url": "https://www.pieta.ie/",
+        "description": "Specialized suicide and self-harm crisis support."
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "slug": "spain",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Línea 024 - Llamada a la Vida",
+        "helpline": "024",
+        "hours": "24/7 gratuito y confidencial",
+        "url": "https://www.sanidad.gob.es/linea024/home.htm",
+        "description": "Línea de atención a la conducta suicida del Ministerio de Sanidad."
+      },
+      {
+        "name": "Teléfono de la Esperanza",
+        "helpline": "717 003 717",
+        "url": "https://telefonodelaesperanza.org/",
+        "description": "Apoyo y escucha activa en momentos de soledad o crisis emocional."
+      },
+      {
+        "name": "Samaritans in Spain (English)",
+        "helpline": "900 525 100",
+        "url": "https://www.samaritansinspain.com/",
+        "description": "Free, confidential English-language emotional support."
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "slug": "netherlands",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "113 Zelfmoordpreventie",
+        "helpline": "0800-0113",
+        "hours": "24/7",
+        "url": "https://www.113.nl/",
+        "description": "National suicide prevention foundation offering call and chat support."
+      },
+      {
+        "name": "De Luisterlijn",
+        "helpline": "088 0767 000",
+        "url": "https://www.deluisterlijn.nl/",
+        "description": "Anonymous listening ear 24 hours a day."
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "slug": "sweden",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "1177 Vårdguiden",
+        "helpline": "1177",
+        "hours": "24/7",
+        "url": "https://www.1177.se/",
+        "description": "National medical advice and psychiatric care referral."
+      },
+      {
+        "name": "Mind Självmordslinjen",
+        "helpline": "901 01",
+        "url": "https://mind.se/",
+        "description": "Free anonymous emotional counseling over phone and chat."
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "slug": "switzerland",
+    "region": "Europe",
+    "emergency": "144 / 112",
+    "services": [
+      {
+        "name": "Die Dargebotene Hand / La Main Tendue",
+        "helpline": "143",
+        "hours": "24/7",
+        "url": "https://www.143.ch/",
+        "description": "Crisis helpline available in German, French, and Italian."
+      },
+      {
+        "name": "English Crisis Support",
+        "helpline": "0800 143 000",
+        "description": "Free English-language emotional support."
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "slug": "italy",
+    "region": "Europe",
+    "emergency": "112 / 118",
+    "services": [
+      {
+        "name": "Telefono Amico Italia",
+        "helpline": "02 2327 2327",
+        "url": "https://www.telefonoamico.it/",
+        "description": "Servizio di ascolto e supporto emotivo per chi si trova in difficoltà."
+      },
+      {
+        "name": "Samaritans ONLUS",
+        "helpline": "06 77208977",
+        "url": "http://www.samaritansonlus.org/",
+        "description": "Supporto gratuito e confidenziale."
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "slug": "poland",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Centrum Wsparcia Kryzysowego",
+        "helpline": "800 70 2222",
+        "hours": "24/7",
+        "url": "https://centrumwsparcia.pl/",
+        "description": "Centrum wsparcia dla osób w stanie kryzysu psychicznego."
+      },
+      {
+        "name": "Emotional Support Helpline",
+        "helpline": "116 123",
+        "url": "https://www.116sos.pl/",
+        "description": "Bezpłatny telefon zaufania dla dorosłych w kryzysie emocjonalnym."
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "slug": "portugal",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "SOS Voz Amiga",
+        "helpline": "21 354 4545 / 91 280 2660",
+        "url": "https://www.sosvozamiga.org/",
+        "description": "Apoio anónimo e confidencial para situações de sofrimento mental."
+      },
+      {
+        "name": "Linha de Apoio Psicológico SNS 24",
+        "helpline": "808 24 24 24",
+        "hours": "24/7 gratuito",
+        "description": "Serviço Nacional de Saúde - apoio psicológico imediato."
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "slug": "austria",
+    "region": "Europe",
+    "emergency": "112 / 144",
+    "services": [
+      {
+        "name": "Telefonseelsorge Österreich",
+        "helpline": "142",
+        "hours": "24/7 kostenfrei",
+        "description": "Kostenlose und vertrauliche Beratung in Krisensituationen."
+      },
+      {
+        "name": "Krisenhilfe OÖ",
+        "helpline": "0732 2177",
+        "url": "https://www.krisenhilfeooe.at/",
+        "description": "Akute Krisenintervention."
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "slug": "belgium",
+    "region": "Europe",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Zelfmoordlijn 1813",
+        "helpline": "1813",
+        "url": "https://www.zelfmoord1813.be/",
+        "description": "Vlaamse hulplijn voor zelfmoordpreventie."
+      },
+      {
+        "name": "Centre de Prévention du Suicide",
+        "helpline": "0800 32 123",
+        "url": "https://www.preventionsuicide.be/",
+        "description": "Service francophone gratuit d'écoute et de prévention."
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "slug": "ukraine",
+    "region": "Europe",
+    "emergency": "112 / 103",
+    "services": [
+      {
+        "name": "Lifeline Ukraine",
+        "helpline": "7333",
+        "hours": "24/7 free",
+        "url": "https://lifelineukraine.com/en",
+        "description": "National, professional, suicide prevention and mental health support line."
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "slug": "australia",
+    "region": "Asia & Pacific",
+    "emergency": "000 (112 on mobile)",
+    "services": [
+      {
+        "name": "PANDA (Perinatal Anxiety & Depression Australia)",
+        "helpline": "1300 726 306",
+        "hours": "Mon to Fri 9am - 7:30pm AEST",
+        "url": "https://panda.org.au/",
+        "description": "Australia's only dedicated national perinatal mental health service supporting new and expecting families."
+      },
+      {
+        "name": "Lifeline Australia",
+        "helpline": "13 11 14",
+        "hours": "24/7",
+        "url": "https://www.lifeline.org.au/",
+        "description": "24-hour crisis support and suicide prevention services."
+      },
+      {
+        "name": "Beyond Blue",
+        "helpline": "1300 22 4636",
+        "url": "https://www.beyondblue.org.au/",
+        "description": "Mental health and well-being support services."
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "slug": "new-zealand",
+    "region": "Asia & Pacific",
+    "emergency": "111",
+    "services": [
+      {
+        "name": "1737 Need to Talk?",
+        "helpline": "1737",
+        "text": "1737",
+        "hours": "24/7 free call or text",
+        "description": "Free, confidential service connecting you with a trained counselor."
+      },
+      {
+        "name": "PADA (Perinatal Anxiety & Depression Aotearoa)",
+        "url": "https://pada.nz/",
+        "description": "Dedicated maternal mental health training, networks, and advocacy across NZ."
+      },
+      {
+        "name": "0508 TAUTOKO Suicide Crisis Helpline",
+        "helpline": "0508 82 88 65",
+        "description": "Specialized crisis counseling line."
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "slug": "india",
+    "region": "Asia & Pacific",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Tele-MANAS National Mental Health Line",
+        "helpline": "14416 / 1800 891 4416",
+        "hours": "24/7 toll-free nationwide",
+        "description": "Comprehensive 24/7 tele-mental health service launched by Ministry of Health and Family Welfare."
+      },
+      {
+        "name": "AASRA",
+        "helpline": "+91 9820466726",
+        "url": "http://www.aasra.info/",
+        "description": "24-hour helpline for suicidal crisis and emotional distress."
+      },
+      {
+        "name": "Vandrevala Foundation Helpline",
+        "helpline": "+91 9999 666 555",
+        "hours": "24/7 free",
+        "description": "Mental health tele-counseling."
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "slug": "japan",
+    "region": "Asia & Pacific",
+    "emergency": "119 / 110",
+    "services": [
+      {
+        "name": "TELL Lifeline (English & Japanese)",
+        "helpline": "03 5774 0992",
+        "url": "https://telljp.com/",
+        "description": "Confidential phone and chat support for Japan's international and local communities."
+      },
+      {
+        "name": "Inochi no Denwa",
+        "helpline": "0570 783 556",
+        "hours": "10:00 am to 10:00 pm",
+        "description": "National Japanese emotional support telephone line."
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "slug": "china",
+    "region": "Asia & Pacific",
+    "emergency": "120 (medical) / 110 (police)",
+    "services": [
+      {
+        "name": "Lifeline China",
+        "helpline": "400 821 1215",
+        "url": "https://lifelinechina.org/",
+        "description": "Free, confidential emotional support helpline."
+      },
+      {
+        "name": "Beijing Suicide Research & Prevention Center",
+        "helpline": "0800 810 1117 / 010 8295 1332",
+        "url": "http://www.crisis.org.cn/",
+        "description": "National suicide prevention hotline in China."
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "slug": "hong-kong",
+    "region": "Asia & Pacific",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "The Samaritans Hong Kong",
+        "helpline": "2896 0000",
+        "hours": "24/7 multilingual",
+        "url": "https://samaritans.org.hk/",
+        "description": "24-hour multilingual suicide prevention and emotional support."
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "slug": "singapore",
+    "region": "Asia & Pacific",
+    "emergency": "995 / 999",
+    "services": [
+      {
+        "name": "Samaritans of Singapore (SOS)",
+        "helpline": "1767",
+        "hours": "24/7 toll-free",
+        "url": "https://www.sos.org.sg/",
+        "description": "Confidential 24-hour emotional support for anyone in crisis."
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "slug": "philippines",
+    "region": "Asia & Pacific",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Hopeline Philippines",
+        "helpline": "0917 558 4673 / 02 8804 4673",
+        "description": "24/7 crisis support hotline."
+      },
+      {
+        "name": "National Center for Mental Health (NCMH) Crisis Hotline",
+        "helpline": "1553 / 0917 899 8727",
+        "hours": "24/7 toll-free",
+        "description": "Nationwide psychiatric and counseling assistance."
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "slug": "south-korea",
+    "region": "Asia & Pacific",
+    "emergency": "119 / 112",
+    "services": [
+      {
+        "name": "Korea Suicide Prevention Centre",
+        "helpline": "1393 / 1577 0199",
+        "hours": "24/7",
+        "url": "https://www.kfsp.or.kr/",
+        "description": "National 24-hour crisis line and emotional counseling."
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "slug": "indonesia",
+    "region": "Asia & Pacific",
+    "emergency": "112 / 119",
+    "services": [
+      {
+        "name": "LISA (Love Inside Suicide Awareness)",
+        "helpline": "+62 811 3855 472 (Bahasa) / +62 811 3815 472 (English)",
+        "url": "https://www.lisahelpline.org/",
+        "description": "Mental health and suicide prevention helpline."
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "slug": "malaysia",
+    "region": "Asia & Pacific",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "Befrienders Malaysia",
+        "helpline": "03 7627 2929",
+        "hours": "24/7",
+        "url": "https://www.befrienders.org.my/",
+        "description": "Emotional support helpline for distress and crisis."
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "slug": "thailand",
+    "region": "Asia & Pacific",
+    "emergency": "1669 / 191",
+    "services": [
+      {
+        "name": "Samaritans of Thailand",
+        "helpline": "02 113 6789",
+        "description": "Suicide prevention and emotional listening hotline."
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "slug": "pakistan",
+    "region": "Asia & Pacific",
+    "emergency": "1122",
+    "services": [
+      {
+        "name": "Umang Pakistan",
+        "helpline": "0311 7786264",
+        "url": "https://www.umang.com.pk/",
+        "description": "Clinical mental health tele-support."
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "slug": "bangladesh",
+    "region": "Asia & Pacific",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "Kaan Pete Roi",
+        "helpline": "01985 375286",
+        "url": "https://shuni.org/",
+        "description": "Emotional support and suicide prevention helpline."
+      }
+    ]
+  },
+  {
+    "country": "Fiji",
+    "slug": "fiji",
+    "region": "Asia & Pacific",
+    "emergency": "917 / 911",
+    "services": [
+      {
+        "name": "Lifeline Fiji",
+        "helpline": "1543",
+        "url": "https://lifelinefiji.com/",
+        "description": "24-hour crisis line."
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "slug": "nepal",
+    "region": "Asia & Pacific",
+    "emergency": "100 / 102",
+    "services": [
+      {
+        "name": "National Suicide Prevention Helpline",
+        "helpline": "1166",
+        "description": "National emergency counseling service."
+      },
+      {
+        "name": "TPO Nepal Crisis Line",
+        "helpline": "1660 01 02005",
+        "description": "Psychosocial counseling."
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "region": "Middle East",
+    "emergency": "998 / 999",
+    "services": [
+      {
+        "name": "Al Amal Psychiatric Hospital Dubai",
+        "helpline": "8001 1111",
+        "description": "Specialized psychiatric emergency care and counseling."
+      },
+      {
+        "name": "Aware Mental Health Line",
+        "helpline": "800 4673",
+        "description": "Mental health crisis support and WhatsApp assistance."
+      },
+      {
+        "name": "Dubai Police Mental Health Help",
+        "helpline": "+971 4 519 2519 / 800 2437",
+        "description": "Confidential specialist support."
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "region": "Middle East",
+    "emergency": "997 / 911",
+    "services": [
+      {
+        "name": "Psychological Counseling Contact Center",
+        "helpline": "920 03 33 60",
+        "description": "National emotional counseling and guidance center."
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "slug": "qatar",
+    "region": "Middle East",
+    "emergency": "999",
+    "services": [
+      {
+        "name": "Hamad Mental Health Helpline",
+        "helpline": "16000",
+        "hours": "Sunday through Thursday: 8:00 am to 7:00 pm",
+        "url": "https://www.hamad.qa/",
+        "description": "Confidential mental health assessment and triage."
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "slug": "lebanon",
+    "region": "Middle East",
+    "emergency": "112 / 140",
+    "services": [
+      {
+        "name": "Embrace Lifeline",
+        "helpline": "1564",
+        "url": "https://embracelebanon.org/",
+        "description": "National emotional support and suicide prevention hotline in Lebanon."
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "slug": "israel",
+    "region": "Middle East",
+    "emergency": "100 / 101",
+    "services": [
+      {
+        "name": "ERAN - Emotional First Aid",
+        "helpline": "1201",
+        "url": "https://www.eran.org.il/",
+        "description": "Confidential emotional support over phone and online chat."
+      },
+      {
+        "name": "Sahar Online Support",
+        "url": "https://sahar.org.il/",
+        "description": "Online emotional assistance in Hebrew and Arabic."
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "slug": "jordan",
+    "region": "Middle East",
+    "emergency": "911",
+    "services": [
+      {
+        "name": "Jordan Emergency Dispatch",
+        "helpline": "911",
+        "description": "National emergency medical and crisis response."
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "slug": "kuwait",
+    "region": "Middle East",
+    "emergency": "112",
+    "services": [
+      {
+        "name": "Kuwait Centre for Mental Health",
+        "helpline": "02 462 1770",
+        "description": "Psychiatric consultation and crisis assistance."
+      }
+    ]
+  },
+  {
+    "country": "Yemen",
+    "slug": "yemen",
+    "region": "Middle East",
+    "emergency": "199",
+    "services": [
+      {
+        "name": "Family Counselling and Development Foundation",
+        "helpline": "136",
+        "url": "http://www.fcdf-ye.org/",
+        "description": "Free counseling and mental health services in Yemen."
+      }
+    ]
+  },
+  {
+    "country": "Worldwide Directories",
+    "slug": "worldwide",
+    "region": "Worldwide",
+    "emergency": "Contact your local emergency dispatch or nearest maternity hospital",
+    "services": [
+      {
+        "name": "Find A Helpline (Global 130+ Countries)",
+        "url": "https://findahelpline.com/",
+        "description": "Free, confidential crisis counseling support in over 130 countries worldwide via phone, SMS, and chat."
+      },
+      {
+        "name": "Befrienders Worldwide",
+        "url": "https://www.befrienders.org/",
+        "description": "Global volunteer network providing 24/7 free emotional support to anyone facing distress or suicidal crisis."
+      },
+      {
+        "name": "Postpartum Support International (PSI Global)",
+        "url": "https://www.postpartum.net/get-help/international-resources/",
+        "description": "Dedicated international coordinators in over 70 countries connecting mothers with certified perinatal specialists."
+      },
+      {
+        "name": "International Association for Suicide Prevention (IASP)",
+        "url": "https://www.iasp.info/resources/Crisis_Centres/",
+        "description": "Comprehensive global registry of crisis centres, helplines, and maternal mental health advocacy networks."
+      },
+      {
+        "name": "Suicide Stop International Online Helplines",
+        "url": "https://www.suicidestop.com/",
+        "description": "International list of free chatlines and toll-free emergency phone lines."
+      },
+      {
+        "name": "OpenCounseling Global Directory",
+        "url": "https://blog.opencounseling.com/suicide-hotlines/",
+        "description": "Verified international suicide and mental health crisis hotlines covering every continent."
+      }
+    ]
+  }
+]
