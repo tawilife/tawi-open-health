@@ -44,8 +44,6 @@ Tawi Life formats multi-specialty clinical screening and community health worker
 - `DE_AGG_[PROTOCOL]_SCREENINGS`: Monthly aggregate screening count
 
 ## HL7 FHIR Release 4 Mapping
-
-## Clinical Scope
 Tawi Life maps multi-specialty clinical screening and triage data (EPDS, PHQ-9, WHO ANC, ESI, CTAS, MTS, SATS, PaedCTAS) directly to HL7 FHIR Release 4 (R4) standards for seamless Electronic Health Record (EHR) integration.
 
 ### Standards & Terminologies
