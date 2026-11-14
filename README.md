@@ -10,7 +10,7 @@ Open-source digital public goods for maternal mental health, clinical interopera
 Developed as part of **Tawi Life**, an initiative dedicated to culturally attuned maternal mental health screening and clinical decision support.
 
 ---
-# Multi-Specialty Clinical Protocol Packs
+## Multi-Specialty Clinical Protocol Packs
 
 Tawi Life provides 12 swappable clinical protocol packs (`@tawilife/protocols`) designed for multi-specialty triage in primary care, maternal health, emergency departments, and community health settings:
 
@@ -28,9 +28,7 @@ Tawi Life provides 12 swappable clinical protocol packs (`@tawilife/protocols`) 
 11. **`sats`**: South African Triage Scale (4-level physiological measures + TEWS optimized for LMICs).
 12. **`paedctas`**: Pediatric Triage Systems (Pediatric acuity & admission prediction).
 
-----
-
-# DHIS2 Interoperability Guide
+## DHIS2 Interoperability
 
 ## Integration Scope
 Tawi Life formats multi-specialty clinical screening and community health worker triage assessments (EPDS, PHQ-9, WHO ANC, ESI, CTAS, MTS, SATS, PaedCTAS) for DHIS2 Tracker and Aggregate APIs.
@@ -45,9 +43,7 @@ Tawi Life formats multi-specialty clinical screening and community health worker
 - `DE_CRISIS_ESCALATION`: Tier 3 safety escalation flag (`true`/`false`)
 - `DE_AGG_[PROTOCOL]_SCREENINGS`: Monthly aggregate screening count
 
-----
-
-# HL7 FHIR Release 4 Mapping Guide
+## HL7 FHIR Release 4 Mapping
 
 ## Clinical Scope
 Tawi Life maps multi-specialty clinical screening and triage data (EPDS, PHQ-9, WHO ANC, ESI, CTAS, MTS, SATS, PaedCTAS) directly to HL7 FHIR Release 4 (R4) standards for seamless Electronic Health Record (EHR) integration.
@@ -57,14 +53,9 @@ Tawi Life maps multi-specialty clinical screening and triage data (EPDS, PHQ-9, 
 - **SNOMED CT**: Clinical diagnosis and risk score encodings (e.g., Edinburgh postnatal depression scale score `248062006`).
 - **ObservationInterpretation**: High / Critical Risk (`H`), Abnormal / Elevated Strain (`A`), Normal / Low Risk (`N`).
 
-### Generated FHIR Resources & Utilities
-1. **`Observation` (`convertToFhirObservation`)**: Master score observation containing category (`survey`), subject reference, performer facility, total score quantity, interpretation, and itemized component sub-observations.
-2. **`QuestionnaireResponse`**: Structured survey responses mapped to protocol-specific linkIds and integer answers.
-3. **`Bundle` (`buildFHIRBundle`)**: Collection bundle encapsulating Observation and QuestionnaireResponse resources.
-
 ----
 
-# Localization & Dialect Contribution Guide
+## Localization & Dialect Contribution Guide
 
 Tawi Life prioritizes local dialects and community language patterns across Africa.
 
