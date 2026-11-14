@@ -1,5 +1,10 @@
 # Tawi Open Health
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![Standard: HL7 FHIR R4](https://img.shields.io/badge/Standard-HL7%20FHIR%20R4-blue.svg)](https://hl7.org/fhir/R4/)
+[![System: DHIS2 Tracker](https://img.shields.io/badge/System-DHIS2%20Tracker-orange.svg)](https://dhis2.org/)
+[![DPG Standard](https://img.shields.io/badge/DPG-Alliance%20Aligned-teal.svg)](https://digitalpublicgoods.net/)
+
 Open-source digital public goods for maternal mental health, clinical interoperability, and localized triage across Africa.
 
 Developed as part of **Tawi Life**, an initiative dedicated to culturally attuned maternal mental health screening and clinical decision support.
