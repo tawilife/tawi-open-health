@@ -1,17 +1,14 @@
 # HL7 FHIR Release 4 Mapping Guide
 
 ## Clinical Scope
-Tawi Life maps perinatal and maternal mental health screening data directly to HL7 FHIR Release 4 standards.
+Tawi Life maps multi-specialty clinical screening and triage data (EPDS, PHQ-9, WHO ANC, ESI, CTAS, MTS, SATS, PaedCTAS) directly to HL7 FHIR Release 4 (R4) standards for seamless Electronic Health Record (EHR) integration.
 
 ### Standards & Terminologies
-- **LOINC 71354-5**: Edinburgh Postnatal Depression Scale [EPDS]
-- **LOINC 71355-2 to 71364-4**: EPDS Items 1 through 10
-- **SNOMED CT 248062006**: Edinburgh postnatal depression scale score
-- **SNOMED CT 386661006**: Postpartum depression
-- **ObservationInterpretation**: High (H), Abnormal (A), Normal (N)
+- **LOINC Terminology**: Standardized question and score codes for mental health, obstetric triage, pediatric IMCI, and acute emergency care.
+- **SNOMED CT**: Clinical diagnosis and risk score encodings (e.g., Edinburgh postnatal depression scale score `248062006`).
+- **ObservationInterpretation**: High / Critical Risk (`H`), Abnormal / Elevated Strain (`A`), Normal / Low Risk (`N`).
 
-### Generated FHIR Resources
-A complete bundle contains:
-1. `Observation`: Total score, LOINC code, facility identifier, and itemized component observations.
-2. `QuestionnaireResponse`: Individual answers linked to standard item IDs.
-3. `RiskAssessment`: Stratified risk evaluation (Low, Elevated, Crisis) with referral recommendations.
+### Generated FHIR Resources & Utilities
+1. **`Observation` (`convertToFhirObservation`)**: Master score observation containing category (`survey`), subject reference, performer facility, total score quantity, interpretation, and itemized component sub-observations.
+2. **`QuestionnaireResponse`**: Structured survey responses mapped to protocol-specific linkIds and integer answers.
+3. **`Bundle` (`buildFHIRBundle`)**: Collection bundle encapsulating Observation and QuestionnaireResponse resources.
